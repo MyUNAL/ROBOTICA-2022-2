@@ -20,6 +20,10 @@ https://raw.githubusercontent.com/SebastianCubides/ROBOTICA-2022-2/main/images/h
 
 - Video que contenga la simulación en RobotStudio y con los robots reales.
 
+Los videos de las simulaciones y de las implementaciones son los siguientes
 
+[![Alt text](https://img.youtube.com/vi/j5a-MLhFNlY/0.jpg)](https://www.youtube.com/watch?v=j5a-MLhFNlY)
+
+[![Alt text](https://img.youtube.com/vi/j5a-MLhFNlY/0.jpg)](https://www.youtube.com/watch?v=j5a-MLhFNlY)
 
 - Descripción de la solución planteada.
