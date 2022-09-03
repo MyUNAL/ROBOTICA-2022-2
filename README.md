@@ -34,3 +34,10 @@ Los videos de las simulaciones y de las implementaciones son los siguientes
     * Tras realizado todo la anterior se sincronizó el contenido de la simulación en RobotStudio para generar el codigo RAPID.
     
     * Finalmente se exportó el código a una USB y se realizaron las operaciones correspondientes con el manipulador, la herramienta y el tablero en el laboratorio.
+
+- Descripción de archivos y carpetas.
+    - HERRAMIENTAS contiene los archivos del modelado CAD de la herramienta y su creación como librería.
+    - PROGRAMA_LAB1_RS Contiene los archivos del código rapid (el código principal quedó con el nombre "YYY")
+    - LAB1RS contiene los archivos de la estación de RobotStudio donde se configuró toda la operación y se hicieron las simulaciones.
+    - images contiene las fotografías tomadas como evidencia.
+    - En LAB1 se encuentran los archivos CAD del tablero.
