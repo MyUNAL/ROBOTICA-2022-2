@@ -6,7 +6,7 @@
 
 Para la herramienta del brazo, se realizó un acople que sujetaba un marcador y permitía que se contrajera por medio de un resorte, El ensamble se realizó con tubos de PVC.
 
-https://raw.githubusercontent.com/SebastianCubides/ROBOTICA-2022-2/main/images/herramienta1.jpeg
+https://raw.githubusercontent.com/SebastianCubides/ROBOTICA-2022-2/blob/main/images/herramienta2.jpeg
 
 
 https://raw.githubusercontent.com/SebastianCubides/ROBOTICA-2022-2/main/images/herramienta2.jpeg
