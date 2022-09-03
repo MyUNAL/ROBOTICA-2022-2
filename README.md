@@ -6,24 +6,22 @@
 
 Para la herramienta del brazo, se realizó un acople que sujetaba un marcador y permitía que se contrajera por medio de un resorte, El ensamble se realizó con tubos de PVC.
 
-https://raw.githubusercontent.com/SebastianCubides/ROBOTICA-2022-2/blob/main/images/herramienta2.jpeg
+![image 1](https://raw.githubusercontent.com/SebastianCubides ROBOTICA-2022-2/main/images/herramiente1.jpeg)
 
+![image 2](https://raw.githubusercontent.com/SebastianCubides ROBOTICA-2022-2/main/images/herramienta2.jpeg)
 
-https://raw.githubusercontent.com/SebastianCubides/ROBOTICA-2022-2/main/images/herramienta2.jpeg
+![image 3](https://raw.githubusercontent.com/SebastianCubides ROBOTICA-2022-2/main/images/herramienta3.jpeg)
 
-
-https://raw.githubusercontent.com/SebastianCubides/ROBOTICA-2022-2/main/images/herramienta3.jpeg
-
-
-https://raw.githubusercontent.com/SebastianCubides/ROBOTICA-2022-2/main/images/herramienta4.jpeg
-
+![image 4](https://raw.githubusercontent.com/SebastianCubides ROBOTICA-2022-2/main/images/herramienta4.jpeg)
 
 - Video que contenga la simulación en RobotStudio y con los robots reales.
 
 Los videos de las simulaciones y de las implementaciones son los siguientes
 
-[![Alt text](https://img.youtube.com/vi/j5a-MLhFNlY/0.jpg)](https://www.youtube.com/watch?v=j5a-MLhFNlY)
+[![Alt text](https://img.youtube.com/vi/6qXpsAbg4Cc/0.jpg)](https://www.youtube.com/watch?v=6qXpsAbg4Cc)
 
 [![Alt text](https://img.youtube.com/vi/j5a-MLhFNlY/0.jpg)](https://www.youtube.com/watch?v=j5a-MLhFNlY)
+
+[![Alt text](https://img.youtube.com/vi/TcdCo_RbKVI/0.jpg)](https://www.youtube.com/watch?v=TcdCo_RbKVI)
 
 - Descripción de la solución planteada.
